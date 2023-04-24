@@ -55,7 +55,7 @@ public class Main {
 			System.out.printf("%-20s%10s\n", entry.getKey(), entry.getValue());
 		}
 
-		bufferedReader.close();
+		bufferedReader.close(); 
 	}
 
 }
